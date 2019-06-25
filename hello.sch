@@ -263,7 +263,7 @@ F 8 "-" H 0   0   50  0001 C CNN "SPURL"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small_ALT D3
+L BAS116 D3
 U 1 1 5CD7602C
 P 9500 1150
 F 0 "D3" H 9450 1230 50  0000 L CNN
